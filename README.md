@@ -1,3 +1,3 @@
 # first-demo
 this is my first git repository
-author - aman aditya
+author - aman adity
